@@ -25,4 +25,4 @@ An example usage that creates the square array experiments in Aref's paper are g
 
   * `ImageMagick (magick)`
 
-* Windows is recommended for full compatibility with MATLAB system calls
+* Windows is recommended for compatibility with MATLAB system calls
