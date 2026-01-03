@@ -1,6 +1,6 @@
 %% Advect Particle Arrays and store result
 
-storagePath = "E:\Projects\ChaoticAdvectionReprise\FinalFuncTesting";
+storagePath = pwd;
 
 trialNames = ["0_1", "0_35", "0_5", "1", "2", "3"];
 muValuesLoop = [0.1, 0.35, 0.5, 1, 2, 3]; 
@@ -18,3 +18,4 @@ for i = 1:length(muValuesLoop)
     load(matData)  % Will load variables "particleArrayTimes", "plottingStruct" into workspace
     makeAllFrames(particleArrayTimes,imgFolderPath,plottingStruct);
 end
+
