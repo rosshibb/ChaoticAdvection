@@ -1,6 +1,6 @@
 # Chaotic Advection
 
-This repository contains MATLAB code used to  This repo contains functions that reproduce the numerical experiments presented in:
+This repository contains MATLAB functions that reproduce the numerical experiments presented in:
 
 > H. Aref (1984), _Stirring by Chaotic Advection_, Journal of Fluid Mechanics.
 
